@@ -23,6 +23,8 @@ Building a model that takes video as an input in order to process it using vario
 - https://app.roboflow.com/tuwaiq/carlanedetect/1
 - https://universe.roboflow.com/tanzim-mostafa/p2_dhaka_dataset-f6ba6/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 - https://universe.roboflow.com/accident-detection-ffdrf/accident-detection-8dvh5/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+- https://universe.roboflow.com/mine-ch87n/road-markings-detection-lines/browse?queryText=class%3Aroad-markings&pageSize=50&startingIndex=0&browseQuery=true
+- https://www.kaggle.com/datasets/asefjamilajwad/car-crash-dataset-ccd
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
 Yolo V8.
