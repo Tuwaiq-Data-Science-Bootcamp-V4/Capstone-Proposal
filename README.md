@@ -28,8 +28,6 @@ Some images and videos taken from the dash cam.
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
 - YoloV8
-- KerasCV
-- OpenCV
 - Pytorch 
 
 ## Final Deliverables:
