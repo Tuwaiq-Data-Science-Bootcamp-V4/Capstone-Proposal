@@ -14,10 +14,10 @@ Reducing traffic caused by accidents  utilizing car dash cam.
 - Arwa
 
 ### Objectives:
-Building a model that takes video as an input in order to process it using various algorithms, resulting in a report that demonstrates who was responsible for the accident. As a result, drivers that were involved in the accident can immediately move to reduce traffic congestion and improve overall safety.
+The model is designed to analyze video footage and apply algorithms to determine the responsible party in an accident. By providing this information, drivers involved can take immediate action to alleviate traffic congestion and enhance overall safety.
 
 ### Dataset Description:
-- Some images and videos taken from the dash cam.
+Some images and videos taken from the dash cam.
 
 ### Dataset Link:
 - https://app.roboflow.com/tuwaiq/carlanedetect/1
