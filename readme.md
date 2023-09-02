@@ -2,9 +2,11 @@
 
 
 # Project Title:
-Depression Detection System.
+**Depression Detection System.**
 
-![Alt text](Depression-1024x1024-removebg-preview.png "Optional title")
+<div align="center">
+    <img src="/Depression-1024x1024-removebg-preview.png">
+</div> 
 
 ## Group Members:
 - Razan Alqahtani
@@ -38,4 +40,4 @@ This Depression Detection System detects the depression and recommends nearby cl
 - Support Vector Machine (SVM)
 - Naïve Bayes (NB)
 - Bernoulli Naïve Bayes (BNB)
-- NLP
+  
