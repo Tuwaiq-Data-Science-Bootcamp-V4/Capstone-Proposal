@@ -27,7 +27,10 @@ Building a model that takes video as an input in order to process it using vario
 - https://www.kaggle.com/datasets/asefjamilajwad/car-crash-dataset-ccd
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Yolo V8.
+- YoloV8
+- KerasCV
+- OpenCV
+- Pytorch 
 
 ## Final Deliverables:
 - README.md file.
