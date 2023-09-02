@@ -1,31 +1,26 @@
 # Capstone-Proposal
 
-
-## Please edit this README.md file based on your Capstone project idea.
-
 ### Project Title:
-Write your Capstone Project title.
+Saudi Labor Assistant
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Rayan Aloufi
+- Taif Alshmarani
+- Abdulmohsen Albareed
+- Mohammad Saud
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+Since we are fresh graduates, we lack knowledge and experience regarding Saudi labor laws, making it difficult for us to ask lawyers or human resources specialists questions about the laws. We'll establish a Saudi Labor Assistant to assist employees by answering any inquiries they have about Saudi labor laws for a nominal fee.
 
 ### Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+Unstructured Arabic dataset (Saudi Labor Laws), with 71 pages and more than 131K words.
 
 ### Dataset Link:
-Note: You have to choose a real dataset that needs cleaning and preprocessing.
+[Saudi Labor Laws](https://www.hrsd.gov.sa/knowledge-centre/decisions-and-regulations/regulation-and-procedures/319545)
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+- Large Language model.
+- Langchain (Embedding).
+- Fine-Tune GPT.
 
-## Final Deliverables:
-- README.md file.
-- Due Date: Sat, 2 Sep, at 09:00 p.m.
+![image](https://github.com/RynHb/Capstone-Proposal/assets/62115163/3ef699a3-ad7c-4d3f-aa39-badab3bf11a1)
