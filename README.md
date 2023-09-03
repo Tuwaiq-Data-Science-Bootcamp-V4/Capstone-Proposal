@@ -1,31 +1,27 @@
 # Capstone-Proposal
 
 
-## Please edit this README.md file based on your Capstone project idea.
-
 ### Project Title:
-Write your Capstone Project title.
+#### Smart City
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Khalid Alhumaidan
+- Abdullah Alowyyid
+- Rakan Almouainie
+- Anwar Almutlaq
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+The project main idea is to make a smart and automated city that help with the day to day life of citizens.
+The project main problems to tackle: 
+- Pollution detection.
+- Smart traffic control.
+- fires and dangers detection.
+- and many more ...
+
 
 ### Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+The dataset contains Images of the problems denoted above, Cars, Polluted environments, fires.
 
-### Dataset Link:
-Note: You have to choose a real dataset that needs cleaning and preprocessing.
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
-
-## Final Deliverables:
-- README.md file.
-- Due Date: Sat, 2 Sep, at 09:00 p.m.
+Yolo computer vision architecture, CNNs.
