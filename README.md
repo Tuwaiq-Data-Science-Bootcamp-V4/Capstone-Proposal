@@ -1,31 +1,22 @@
 # Capstone-Proposal
 
 
-## Please edit this README.md file based on your Capstone project idea.
-
 ### Project Title:
-Write your Capstone Project title.
+#### Personal trainer
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Khalid Alhumaidan
+- Abdullah Alowyyid
+- Rakan Almuwainie
+- Anwar Almutlaq
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+The project main idea is to make a personal trainer using AI and computer vision, The trainer analyzes your excercies and workouts and gives you a warning if you did any exercise wrong, also it can give you a brief summary about your workout session, and gives you tips on how to improve your training. We think that it is crucial to have this trainer, since it will help with improving training form and prevent injuries.
+
 
 ### Dataset Description:
-- The number of rows:
-- The number of columns:
-- Columns Description (meaning):
-- The number of Missing values:
+The dataset contains Images of people working out.
 
-### Dataset Link:
-Note: You have to choose a real dataset that needs cleaning and preprocessing.
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
-
-## Final Deliverables:
-- README.md file.
-- Due Date: Sat, 2 Sep, at 09:00 p.m.
+CNNs (Convolutional neural network).
