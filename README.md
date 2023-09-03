@@ -17,6 +17,7 @@ The project main problems to tackle:
 - Smart traffic control.
 - fires and dangers detection.
 - and many more ...
+The project scale is huge, but we try to be realist and make the project within time. Therefore, initially, we will address **four** problems to start with and leave the rest for future work. We strongly believe that this idea will make a positive impact on society and help improve quality of life.
 
 
 ### Dataset Description:
