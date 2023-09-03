@@ -2,7 +2,7 @@
 
 
 ### Project Title:
-#### Smart City
+#### Personal trainer
 
 ### Group Members:
 - Khalid Alhumaidan
@@ -11,18 +11,12 @@
 - Anwar Almutlaq
 
 ### Objectives:
-The project main idea is to make a smart and automated city that help with the day to day life of citizens.
-The project main problems to tackle: 
-- Pollution detection.
-- Smart traffic control.
-- fires and dangers detection.
-- and many more ...
-The project scale is huge, but we try to be realist and make the project within time. Therefore, initially, we will address **four** problems to start with and leave the rest for future work. We strongly believe that this idea will make a positive impact on society and help improve quality of life.
+The project main idea is to make a personal trainer using AI and computer vision, The trainer analyzes your excercies and workouts and gives you a warning if you did any exercise wrong, also it can give you a brief summary about your workout session, and gives you tips on how to improve your training. We think that it is crucial to have this trainer, since it will help with improving training form and prevent injuries.
 
 
 ### Dataset Description:
-The dataset contains Images of the problems denoted above, Cars, Polluted environments, fires.
+The dataset contains Images of people working out.
 
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Yolo computer vision architecture, CNNs.
+CNNs (Convolutional neural network).
