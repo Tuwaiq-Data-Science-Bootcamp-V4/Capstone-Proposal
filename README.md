@@ -7,7 +7,7 @@
 ### Group Members:
 - Khalid Alhumaidan
 - Abdullah Alowyyid
-- Rakan Almouainie
+- Rakan Almuwainie
 - Anwar Almutlaq
 
 ### Objectives:
