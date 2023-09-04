@@ -1,7 +1,7 @@
 # Capstone-Proposal
 
 
-## Please edit this README.md file based on your Capstone project idea.
+
 
 ### Project Title:
 Study Abroad Assisstant.
