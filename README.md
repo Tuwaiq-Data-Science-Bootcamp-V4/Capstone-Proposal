@@ -2,7 +2,7 @@
 
 
 ### Project Title:
-Study Abroad Assisstant.
+Study Abroad Assistant.
 
 
 <div align="center">
@@ -22,18 +22,18 @@ This project aims to assist individuals who are interested in studying abroad th
 The project combines machine learning techniques and data from the King Salman Scholarship Program to build a predictive model that analyzes user information and predicts universities that are likely to accept them. The model takes into account the desired field of study, academic achievements, and test scores to make accurate recommendations.
 
 ### Dataset Description:
--  Top 200 universities worldwide
-- 186 Majors 
+-  Top 100 universities worldwide
+- 200 Majors 
   
 ### Dataset Link:
-- Web Scraping  , selenium ! 
+- Web Scraping  , selenium  
   [Click me!](https://moe.gov.sa/scholarship-program/path-emdad/index.html)
 
 
 
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Multiclass classification
+
 
 ## Final Deliverables:
 - README.md file.
